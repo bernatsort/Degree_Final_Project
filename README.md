@@ -11,5 +11,5 @@ In order to prove our hypothesis and accomplish our goal, we have set specific a
 - Develop a new score of lung failure using the SpO2/FiO2 ratio based on the gold standard respiratory SOFA score.
 - Evaluate the performance of the new score against the gold standard using a battery of ML classification algorithms to predict mortality.
 
-### 💡Suggestions 
+### 💡Recommendations 
 We suggest opening the code in Colab to visualize the interactive plots properly.
